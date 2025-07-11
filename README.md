@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Lunawat</h1>
+<h1 align="center">Hi 👋, I'm Shreyas Kumar aka Karretsol</h1>
 <h3 align="center">I'm a passionate developer and tech enthusiast currently pursuing my B.E. in Artificial Intelligence and Data Science Engineering at Ramaiah Institute of Technology. My interests span across Data Structure and Algorithms, GenAI, Machine Learning.</h3>
 
 - 💪 I’m currently working on **AI based code editor and Sustainable inventory Management**
