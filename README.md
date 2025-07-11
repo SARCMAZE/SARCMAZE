@@ -3,7 +3,7 @@
 
 - 💪 I’m currently working on **AI based code editor and Sustainable inventory Management**
 
-- 🌱 I’m currently learning **Cyber Security and Machine Learning **
+- 🌱 I’m currently working on Cyber Security and Machine Learning
 
 - 💎 How to reach me **kumarshreyas390@gmail.com**
 
