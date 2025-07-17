@@ -6,7 +6,7 @@ Focused on Data Structures & Algorithms, GenAI, Machine Learning, and Cloud tech
 
 ---
 
-- 💼 Currently interning at **BlueStock Fintech**
+- 💼 EX-SDE Intern at **BlueStock Fintech**
 - 🧠 Working on **Hybrid models for Price tracking and Cryptographic algorithm identification**
 - 🛡️ Exploring **Cyber Security** and **Machine Learning**
 - 🏆 Top 10 - SAP Lab Hackathon | SIH Internal Round Qualifier
