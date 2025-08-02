@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shreyas Kumar aka Karretsol</h1>
+<h1 align="center">Hi 👋, I'm Shreyas aka Karretsol</h1>
 <h3 align="center">
-A passionate developer and tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at Ramaiah Institute of Technology.<br>
-Focused on Data Structures & Algorithms, GenAI, Machine Learning, and Cloud technologies.
+A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at Ramaiah Institute of Technology.<br>
 </h3>
 
 ---
