@@ -47,23 +47,7 @@ A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at 
   <img src="https://github.com/ShamanthHiremath/ShamanthHiremath/blob/main/Sparkle.png" alt="Shamanth M Hiremath" width="90%" style="border-radius:50%;">
 </p>
 
-## 👋 *Hey ya'll*
-# *Its* **Shamanth M Hiremath**
-
-### AIML Afficionado || Flutter App Dev || Critical Analyst || Computer Affecionate || Philomath || Quizzer || Class Rep
-### [**CSE MSRIT '26, Bangalore, India**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamanthhiremath&label=Profile%20views&color=brightgreen&style=flat&count=10000" alt="shamanthhiremath" /> </p>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamanthHiremath)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanth-m-hiremath-b46760259)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamanth.hiremath.101@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shamanthhiremath/)
-[![CodingNinjas](https://img.shields.io/badge/CodinNinjas-grey?style=for-the-badge&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/d0c963a7-de0d-4e60-be67-b8fcf4566caa)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/shamanthhipum1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightGreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shamanth_hirema1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shamanthmhiremath)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-skyblue?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/22171319/shamanth-m-hiremath)
 
 
 - 🌱 I’m trying to master **Artificial Intelligence and Machine Learning and its charming subsets (GenAI, GANs, Deep Learning)**
