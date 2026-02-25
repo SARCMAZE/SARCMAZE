@@ -5,9 +5,8 @@ A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at 
 
 ---
 
-- 💼 EX-SDE Intern at **BlueStock Fintech**
+- 💼 SDE Intern at **IBM ISDL**
 - 🛡️ Exploring **Cyber Security** and **Machine Learning**
-- 🏆 Top 10 - SAP Lab Hackathon | SIH Internal Round Qualifier
 - 📫 Reach me at: **kumarshreyas390@gmail.com**
 
 ---
