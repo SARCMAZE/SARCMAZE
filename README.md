@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyas aka Karretsol</h1>
+<h1 align="center">Hi 👋, I'm Shreyas </h1>
 <h3 align="center">
 A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at Ramaiah Institute of Technology.<br>
 </h3>
@@ -6,7 +6,6 @@ A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at 
 ---
 
 - 💼 SDE Intern at **IBM ISDL**
-- 🛡️ Exploring **Cyber Security** and **Machine Learning**
 - 📫 Reach me at: **kumarshreyas390@gmail.com**
 
 ---
