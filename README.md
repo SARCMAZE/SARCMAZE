@@ -5,7 +5,7 @@ A  tech enthusiast pursuing B.E. in Artificial Intelligence and Data Science at 
 
 ---
 
-- 💼 SDE Intern at **IBM ISDL**
+- 💼 SDE at **IBM ISDL**
 - 📫 Reach me at: **kumarshreyas390@gmail.com**
 
 ---
