@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas </h1>
 <h3 align="center">
-A  tech enthusiast with B.E. in AI and Data Science at Ramaiah Institute of Technology.<br>
+Just a chilll guy.<br>
 </h3>
 
 ---
